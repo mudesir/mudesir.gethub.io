@@ -3,7 +3,7 @@
 # Name of website
 title: Mudesir Suleyman
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: This is where we put our portfolio project
 
 # Your name to show in the footer
 author: Mudesir Suleyman
@@ -11,11 +11,11 @@ author: Mudesir Suleyman
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "https://twitter.com/mudesir"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Lambda School Jekyll: "https://www.lambdaschool.com"
+    - Lambda School: "https://www.lambdaschool.com/"
+  Author's home: "https://mudesir.ai"
 
 # --- Logo --- #
 
@@ -42,10 +42,10 @@ social-network-links:
   github: mudesir
   twitter: mudesir
   rss: true
+  linkedin: mudesir-suleyman
 #  reddit: yourname
-linkedin: mudesir-suleyman
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+#  stackoverflow: "3943160/daattal  "
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
