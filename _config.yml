@@ -15,7 +15,7 @@ navbar-links:
   Resources:
     - Lambda School Jekyll: "https://www.lambdaschool.com"
     - Lambda School: "https://www.lambdaschool.com/"
-  Author's home: "https://mudesir.ai"
+  Author's home: "https://mudesir.gethub.ai"
 
 # --- Logo --- #
 
@@ -41,8 +41,8 @@ social-network-links:
  # facebook: deanattali
   github: mudesir
   twitter: mudesir
-  rss: true
-  linkedin: mudesir-suleyman
+ # rss: true
+  linkedin:mudesir-suleyman-73369b1a5
 #  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattal  "
